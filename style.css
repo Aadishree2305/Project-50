@@ -1,0 +1,17 @@
+h1,p{
+    background-image:rgb(50, 50, 185) ;
+    color:rgb(65, 138, 202);
+}
+.header{
+    background-image: rgb(168, 88, 168);
+    color:rgb(105, 21, 214);
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    background-image:rgb(172, 95, 108);
+    color:rgb(66, 0, 52);
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
